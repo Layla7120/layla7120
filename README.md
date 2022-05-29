@@ -1,13 +1,14 @@
-# 👋 Hi, I’m HyunJung Oh 
-## Nice to meet you! :smiley:
+# 👋 Hi, I’m Layla Oh 
 
-- :smile: I’m interested in web programming!
-- :hamburger: I'm sophomore student, majoring in computer science.
-- 🌱 I’m currently learning algorithm, python, git, database, unix, data communication.
+- Currently learning...
 
+  - Typescript로 블록체인 만들기 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 
- > In case you would like to know...
-- :beverage_box: I love milk tea and macha latte :heart:
+  - 개발자를 위한 윈도우 셋업 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+  - ReactJS로 영화 웹 서비스 만들기 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/61)
+  - 유투브 클론코딩  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/8)
+
+  - React JS 마스터 클래스 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/13)
 
 
 <!---
