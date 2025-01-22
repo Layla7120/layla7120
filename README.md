@@ -11,6 +11,15 @@ I have experience building apps with **SWIFT** and **Flask**, and creating front
 />
 </a>
 
+<a href="https://www.gitanimals.org/">
+  <img
+    src="https://render.gitanimals.org/guilds/669739332448602869/draw"
+    width="600"
+    height="300"
+    alt="gitanimals"
+  />
+</a>
+
 ## Tech Stack
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
