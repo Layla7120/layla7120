@@ -3,6 +3,13 @@
 I'm studying **SpringBoot Backend development** and exploring **Natural Language Processing (NLP)** with **PyTorch**.  
 I have experience building apps with **SWIFT** and **Flask**, and creating frontends with **Next.js**.
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Layla7120&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Layla7120"
+  width="600"
+  height="300"
+/>
+</a>
 
 ## Tech Stack
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
