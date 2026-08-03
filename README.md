@@ -21,14 +21,3 @@ Building AI services end-to-end — focused on **reliability**, **performance**,
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-<br/>
-
-## 🚀 Projects
-
-| Project | |
-|---|---|
-| [**News Tracker**](https://github.com/Fastmakers/newstrackers-server) | pgvector hybrid search · async job system · pytest (52 tests) |
-| [**코테독촉기**](https://github.com/Layla7120/code_test_reminder_server) | Flask → Kotlin migration · measured Redis vs DB ranking, then [documented why it was overkill](https://github.com/Layla7120/code_test_reminder_server/blob/main/docs/%EA%B8%B0%EB%A1%9D.md) · Testcontainers + CI |
-| [**MilliSeconds**](https://github.com/milli-second/backend) | K8s OOMKilled fix · Kafka MSA pipeline |
-| [**ICN Airport Chatbot**](https://github.com/aivleCloudNative0715/ICN-AI-chatbot) | KoBERT intent classification · LangGraph orchestration _(team project)_ |
