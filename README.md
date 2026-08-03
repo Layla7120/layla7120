@@ -1,7 +1,5 @@
-# 👋 Hi, I'm Layla Oh
-
-Backend developer who builds AI services end-to-end.
-Focused on **system reliability**, **performance optimization**, and **data pipeline design**.
+Backend developer who builds AI services end-to-end —
+**system reliability**, **performance optimization**, **data pipeline design**.
 
 `Spring Boot` `FastAPI` `Python` `PostgreSQL` `Redis` `Kubernetes` `Kafka`
 Currently exploring: `PyTorch` `LangChain` `RAG`
