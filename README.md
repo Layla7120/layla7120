@@ -1,5 +1,3 @@
-### Layla Oh · Backend Developer
-
 Building AI services end-to-end — focused on **reliability**, **performance**, and **data pipelines**.
 
 <br/>
